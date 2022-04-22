@@ -114,7 +114,7 @@ if ($servers_list)
 		</div>
 
 		<div id="footer">
-			página generada en <?php echo (microtime(true) - $start); ?> segundos // <a href="http://github.com/lfiore/status/">status es un script de lfiore</a>
+			página generada en <?php echo (microtime(true) - $start); ?> segundos // <a href="http://github.com/lfiore/status/">status es un script de lfiore</a> traducido por <a href="http://github.com/victorhck/status/"> victorhck </a>
 		</div>
 
 	</div>
